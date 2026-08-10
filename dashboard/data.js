@@ -1,18 +1,18 @@
 window.__AUM_DATA__ = {
-  "date": "2026-08-09",
-  "updated_at": "2026-08-09 10:15 UTC",
+  "date": "2026-08-10",
+  "updated_at": "2026-08-10 08:10 UTC",
   "mode": "live",
   "apy_window": "7day",
   "reference_prices": {
-    "eth_usd": 1917.46,
-    "eur_usd": 1.1557
+    "eth_usd": 1925.44,
+    "eur_usd": 1.1555
   },
   "firm": {
     "name": "KPK",
-    "total_usd": 112899901.96,
-    "deployed_usd": 111406145.31,
-    "idle_usd": 1493756.64,
-    "deployed_apy_pct": 3.376,
+    "total_usd": 113103868.89,
+    "deployed_usd": 111620058.58,
+    "idle_usd": 1483810.31,
+    "deployed_apy_pct": 3.4809,
     "clients": 4,
     "wallets": 6,
     "positions": 62,
@@ -20,36 +20,36 @@ window.__AUM_DATA__ = {
     "idle_positions": 20,
     "buckets": {
       "USD": {
-        "value_usd": 51556594.46,
-        "deployed_usd": 51550505.87,
-        "measured_usd": 51049776.71,
-        "idle_usd": 6088.59,
-        "avg_apy_pct": 4.2298,
-        "native_value": 51556594.455149,
+        "value_usd": 51564439.05,
+        "deployed_usd": 51558349.75,
+        "measured_usd": 51057623.59,
+        "idle_usd": 6089.29,
+        "avg_apy_pct": 4.355,
+        "native_value": 51564439.045627,
         "native_unit": "USD",
         "positions": 31,
         "deployed_positions": 25,
         "idle_positions": 6
       },
       "ETH": {
-        "value_usd": 51660863.5,
-        "deployed_usd": 51066116.53,
-        "measured_usd": 34930680.12,
-        "idle_usd": 594746.97,
-        "avg_apy_pct": 2.2127,
-        "native_value": 26942.298088,
+        "value_usd": 51863526.63,
+        "deployed_usd": 51265322.01,
+        "measured_usd": 35078185.29,
+        "idle_usd": 598204.62,
+        "avg_apy_pct": 2.3063,
+        "native_value": 26935.962331,
         "native_unit": "ETH",
         "positions": 18,
         "deployed_positions": 12,
         "idle_positions": 6
       },
       "EUR": {
-        "value_usd": 3194780.41,
-        "deployed_usd": 3194780.41,
-        "measured_usd": 3194780.41,
+        "value_usd": 3194148.64,
+        "deployed_usd": 3194148.64,
+        "measured_usd": 3194148.64,
         "idle_usd": 0,
-        "avg_apy_pct": 3.0998,
-        "native_value": 2764331.380508,
+        "avg_apy_pct": 3.1117,
+        "native_value": 2764367.241185,
         "native_unit": "EUR",
         "positions": 3,
         "deployed_positions": 3,
@@ -57,13 +57,13 @@ window.__AUM_DATA__ = {
       }
     },
     "unclassified": {
-      "value_usd": 6487663.59,
+      "value_usd": 6481754.58,
       "positions": 10
     },
     "manual_adjustments_usd": 0,
     "stats": {
-      "deployed_apy_pct": 3.376,
-      "est_annual_yield_usd": 3071044.79,
+      "deployed_apy_pct": 3.4809,
+      "est_annual_yield_usd": 3172004.39,
       "protocol_count": 15,
       "protocols": [
         "aave",
@@ -94,8 +94,8 @@ window.__AUM_DATA__ = {
           "protocol": "stakewise",
           "chain": "ethereum",
           "client": "ENS",
-          "value_usd": 17816678.09,
-          "apy_pct": 2.17
+          "value_usd": 17891953.83,
+          "apy_pct": 2.35
         },
         {
           "symbol": "weETH",
@@ -103,7 +103,7 @@ window.__AUM_DATA__ = {
           "protocol": "ether.fi",
           "chain": "ethereum",
           "client": "ENS",
-          "value_usd": 15744265.67,
+          "value_usd": 15794770.8,
           "apy_pct": 0.0
         },
         {
@@ -112,7 +112,7 @@ window.__AUM_DATA__ = {
           "protocol": "ethx",
           "chain": "ethereum",
           "client": "ENS",
-          "value_usd": 13633658.15,
+          "value_usd": 13691199.53,
           "apy_pct": 2.29
         },
         {
@@ -121,8 +121,8 @@ window.__AUM_DATA__ = {
           "protocol": "fluid",
           "chain": "ethereum",
           "client": "ENS",
-          "value_usd": 9935906.12,
-          "apy_pct": 5.16
+          "value_usd": 9937154.02,
+          "apy_pct": 5.19
         },
         {
           "symbol": "USDC",
@@ -130,8 +130,8 @@ window.__AUM_DATA__ = {
           "protocol": "morpho",
           "chain": "ethereum",
           "client": "ENS",
-          "value_usd": 7521055.16,
-          "apy_pct": 3.63
+          "value_usd": 7521714.53,
+          "apy_pct": 3.62
         }
       ]
     },
@@ -144,33 +144,33 @@ window.__AUM_DATA__ = {
   "clients": [
     {
       "name": "ENS",
-      "total_usd": 76602550.69,
-      "deployed_usd": 76144224.18,
-      "idle_usd": 458326.51,
-      "deployed_apy_pct": 3.1793,
-      "share_pct": 67.85,
+      "total_usd": 76799649.1,
+      "deployed_usd": 76338658.08,
+      "idle_usd": 460991.02,
+      "deployed_apy_pct": 3.2322,
+      "share_pct": 67.9019,
       "wallet_count": 1,
       "positions": 14,
       "buckets": {
         "USD": {
-          "value_usd": 26984642.54,
-          "deployed_usd": 26984636.38,
-          "measured_usd": 26984636.38,
+          "value_usd": 26987462.69,
+          "deployed_usd": 26987456.52,
+          "measured_usd": 26987456.52,
           "idle_usd": 6.17,
-          "avg_apy_pct": 4.3663,
-          "native_value": 26984642.544224,
+          "avg_apy_pct": 4.3704,
+          "native_value": 26987462.689167,
           "native_unit": "USD",
           "positions": 8,
           "deployed_positions": 7,
           "idle_positions": 1
         },
         "ETH": {
-          "value_usd": 49617908.15,
-          "deployed_usd": 49159587.8,
-          "measured_usd": 33415322.13,
-          "idle_usd": 458320.35,
-          "avg_apy_pct": 2.2207,
-          "native_value": 25876.851086,
+          "value_usd": 49812186.41,
+          "deployed_usd": 49351201.56,
+          "measured_usd": 33556430.76,
+          "idle_usd": 460984.85,
+          "avg_apy_pct": 2.3167,
+          "native_value": 25870.573486,
           "native_unit": "ETH",
           "positions": 6,
           "deployed_positions": 4,
@@ -200,9 +200,9 @@ window.__AUM_DATA__ = {
       "wallets": [
         {
           "address": "0x4f2083f5fbede34c2714affb3105539775f7fe64",
-          "total_usd": 76602550.69,
-          "deployed_usd": 76144224.18,
-          "idle_usd": 458326.51,
+          "total_usd": 76799649.1,
+          "deployed_usd": 76338658.08,
+          "idle_usd": 460991.02,
           "positions": 14,
           "holdings": [
             {
@@ -211,8 +211,8 @@ window.__AUM_DATA__ = {
               "protocol": "stakewise",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 17816678.09,
-              "apy_pct": 2.17,
+              "value_usd": 17891953.83,
+              "apy_pct": 2.35,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -222,7 +222,7 @@ window.__AUM_DATA__ = {
               "protocol": "ether.fi",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 15744265.67,
+              "value_usd": 15794770.8,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": true
@@ -233,7 +233,7 @@ window.__AUM_DATA__ = {
               "protocol": "ethx",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 13633658.15,
+              "value_usd": 13691199.53,
               "apy_pct": 2.29,
               "is_idle": false,
               "apy_excluded": false
@@ -244,8 +244,8 @@ window.__AUM_DATA__ = {
               "protocol": "fluid",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 9935906.12,
-              "apy_pct": 5.16,
+              "value_usd": 9937154.02,
+              "apy_pct": 5.19,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -255,8 +255,8 @@ window.__AUM_DATA__ = {
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 7521055.16,
-              "apy_pct": 3.63,
+              "value_usd": 7521714.53,
+              "apy_pct": 3.62,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -266,8 +266,8 @@ window.__AUM_DATA__ = {
               "protocol": "fluid",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 2504827.86,
-              "apy_pct": 5.37,
+              "value_usd": 2505073.87,
+              "apy_pct": 5.34,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -277,7 +277,7 @@ window.__AUM_DATA__ = {
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 2500418.1,
+              "value_usd": 2500640.49,
               "apy_pct": 3.64,
               "is_idle": false,
               "apy_excluded": false
@@ -288,7 +288,7 @@ window.__AUM_DATA__ = {
               "protocol": "sky",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 2007782.73,
+              "value_usd": 2007993.83,
               "apy_pct": 3.52,
               "is_idle": false,
               "apy_excluded": false
@@ -299,7 +299,7 @@ window.__AUM_DATA__ = {
               "protocol": "lido",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 1964985.88,
+              "value_usd": 1973277.4,
               "apy_pct": 2.2,
               "is_idle": false,
               "apy_excluded": false
@@ -310,8 +310,8 @@ window.__AUM_DATA__ = {
               "protocol": "compound",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 1500187.53,
-              "apy_pct": 3.35,
+              "value_usd": 1500307.54,
+              "apy_pct": 3.34,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -321,8 +321,8 @@ window.__AUM_DATA__ = {
               "protocol": "fluid",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 1014458.87,
-              "apy_pct": 4.54,
+              "value_usd": 1014572.25,
+              "apy_pct": 4.52,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -332,7 +332,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 374796.95,
+              "value_usd": 376975.89,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -343,7 +343,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 83523.39,
+              "value_usd": 84008.97,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -365,45 +365,45 @@ window.__AUM_DATA__ = {
     },
     {
       "name": "CoW DAO",
-      "total_usd": 22179857.76,
-      "deployed_usd": 21910284.39,
-      "idle_usd": 269573.36,
-      "deployed_apy_pct": 3.7316,
-      "share_pct": 19.6456,
+      "total_usd": 22181256.97,
+      "deployed_usd": 21917019.3,
+      "idle_usd": 264237.67,
+      "deployed_apy_pct": 3.9607,
+      "share_pct": 19.6114,
       "wallet_count": 3,
       "positions": 15,
       "buckets": {
         "USD": {
-          "value_usd": 17813980.47,
-          "deployed_usd": 17812616.22,
-          "measured_usd": 17812616.22,
-          "idle_usd": 1364.26,
-          "avg_apy_pct": 3.9077,
-          "native_value": 17813980.471163,
+          "value_usd": 17817771.63,
+          "deployed_usd": 17816407.1,
+          "measured_usd": 17816407.1,
+          "idle_usd": 1364.53,
+          "avg_apy_pct": 4.1854,
+          "native_value": 17817771.632462,
           "native_unit": "USD",
           "positions": 7,
           "deployed_positions": 4,
           "idle_positions": 3
         },
         "ETH": {
-          "value_usd": 906930.93,
-          "deployed_usd": 902887.77,
-          "measured_usd": 730493.1,
-          "idle_usd": 4043.16,
+          "value_usd": 910530.23,
+          "deployed_usd": 906463.56,
+          "measured_usd": 733575.51,
+          "idle_usd": 4066.67,
           "avg_apy_pct": 2.2,
-          "native_value": 472.984804,
+          "native_value": 472.895105,
           "native_unit": "ETH",
           "positions": 3,
           "deployed_positions": 2,
           "idle_positions": 1
         },
         "EUR": {
-          "value_usd": 3194780.41,
-          "deployed_usd": 3194780.41,
-          "measured_usd": 3194780.41,
+          "value_usd": 3194148.64,
+          "deployed_usd": 3194148.64,
+          "measured_usd": 3194148.64,
           "idle_usd": 0,
-          "avg_apy_pct": 3.0998,
-          "native_value": 2764331.380508,
+          "avg_apy_pct": 3.1117,
+          "native_value": 2764367.241185,
           "native_unit": "EUR",
           "positions": 3,
           "deployed_positions": 3,
@@ -411,7 +411,7 @@ window.__AUM_DATA__ = {
         }
       },
       "unclassified": {
-        "value_usd": 264165.95,
+        "value_usd": 258806.48,
         "positions": 2
       },
       "reconciliation": {
@@ -421,9 +421,9 @@ window.__AUM_DATA__ = {
       "wallets": [
         {
           "address": "0x616de58c011f8736fa20c7ae5352f7f6fb9f0669",
-          "total_usd": 16864215.56,
-          "deployed_usd": 16594655.28,
-          "idle_usd": 269560.29,
+          "total_usd": 16863504.72,
+          "deployed_usd": 16599280.14,
+          "idle_usd": 264224.58,
           "positions": 13,
           "holdings": [
             {
@@ -432,8 +432,8 @@ window.__AUM_DATA__ = {
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 7026575.72,
-              "apy_pct": 3.63,
+              "value_usd": 7027191.73,
+              "apy_pct": 3.62,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -443,7 +443,7 @@ window.__AUM_DATA__ = {
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 4008799.61,
+              "value_usd": 4009284.25,
               "apy_pct": 4.34,
               "is_idle": false,
               "apy_excluded": false
@@ -454,8 +454,8 @@ window.__AUM_DATA__ = {
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "EUR",
-              "value_usd": 2554690.85,
-              "apy_pct": 3.24,
+              "value_usd": 2553957.35,
+              "apy_pct": 3.25,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -465,8 +465,8 @@ window.__AUM_DATA__ = {
               "protocol": "agave",
               "chain": "gnosis",
               "bucket": "USD",
-              "value_usd": 1461611.77,
-              "apy_pct": 3.94,
+              "value_usd": 1462191.96,
+              "apy_pct": 4.68,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -476,7 +476,7 @@ window.__AUM_DATA__ = {
               "protocol": "lido",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 730493.1,
+              "value_usd": 733575.51,
               "apy_pct": 2.2,
               "is_idle": false,
               "apy_excluded": false
@@ -487,8 +487,8 @@ window.__AUM_DATA__ = {
               "protocol": "aave",
               "chain": "gnosis",
               "bucket": "EUR",
-              "value_usd": 640088.97,
-              "apy_pct": 2.54,
+              "value_usd": 640190.71,
+              "apy_pct": 2.56,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -498,7 +498,7 @@ window.__AUM_DATA__ = {
               "protocol": "lido",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 172394.67,
+              "value_usd": 172888.05,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": true
@@ -510,7 +510,7 @@ window.__AUM_DATA__ = {
               "chain": "ethereum",
               "bucket": "EUR",
               "value_usd": 0.59,
-              "apy_pct": 2.94,
+              "apy_pct": 2.7,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -520,7 +520,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 264152.87,
+              "value_usd": 258793.38,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": true
@@ -531,7 +531,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "gnosis",
               "bucket": "ETH",
-              "value_usd": 4043.16,
+              "value_usd": 4066.67,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -542,7 +542,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 1209.97,
+              "value_usd": 1210.25,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -573,8 +573,8 @@ window.__AUM_DATA__ = {
         },
         {
           "address": "0x7f8987d6a8bee31bd7be80e877732579e2582a28",
-          "total_usd": 5315629.12,
-          "deployed_usd": 5315629.12,
+          "total_usd": 5317739.16,
+          "deployed_usd": 5317739.16,
           "idle_usd": 0.0,
           "positions": 1,
           "holdings": [
@@ -584,8 +584,8 @@ window.__AUM_DATA__ = {
               "protocol": "agave",
               "chain": "gnosis",
               "bucket": "USD",
-              "value_usd": 5315629.12,
-              "apy_pct": 3.94,
+              "value_usd": 5317739.16,
+              "apy_pct": 4.68,
               "is_idle": false,
               "apy_excluded": false
             }
@@ -593,9 +593,9 @@ window.__AUM_DATA__ = {
         },
         {
           "address": "0x9009B4411D0e1171cc042b77D7701f46B737Fdb9",
-          "total_usd": 13.08,
+          "total_usd": 13.1,
           "deployed_usd": 0.0,
-          "idle_usd": 13.08,
+          "idle_usd": 13.1,
           "positions": 1,
           "holdings": [
             {
@@ -604,7 +604,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "gnosis",
               "bucket": "\u2014",
-              "value_usd": 13.08,
+              "value_usd": 13.1,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -615,33 +615,33 @@ window.__AUM_DATA__ = {
     },
     {
       "name": "Balancer DAO",
-      "total_usd": 7817653.94,
-      "deployed_usd": 7168494.72,
-      "idle_usd": 649159.21,
-      "deployed_apy_pct": 3.5124,
-      "share_pct": 6.9244,
+      "total_usd": 7815585.69,
+      "deployed_usd": 7173881.05,
+      "idle_usd": 641704.64,
+      "deployed_apy_pct": 3.708,
+      "share_pct": 6.9101,
       "wallet_count": 1,
       "positions": 18,
       "buckets": {
         "USD": {
-          "value_usd": 4892994.79,
-          "deployed_usd": 4890932.47,
-          "measured_usd": 4890932.47,
-          "idle_usd": 2062.32,
-          "avg_apy_pct": 4.1171,
-          "native_value": 4892994.793799,
+          "value_usd": 4894033.91,
+          "deployed_usd": 4891971.4,
+          "measured_usd": 4891971.4,
+          "idle_usd": 2062.51,
+          "avg_apy_pct": 4.3884,
+          "native_value": 4894033.911082,
           "native_unit": "USD",
           "positions": 9,
           "deployed_positions": 8,
           "idle_positions": 1
         },
         "ETH": {
-          "value_usd": 612335.89,
-          "deployed_usd": 484855.75,
-          "measured_usd": 484855.75,
-          "idle_usd": 127480.14,
-          "avg_apy_pct": 2.1903,
-          "native_value": 319.34689,
+          "value_usd": 615124.81,
+          "deployed_usd": 486903.55,
+          "measured_usd": 486903.55,
+          "idle_usd": 128221.26,
+          "avg_apy_pct": 2.321,
+          "native_value": 319.472659,
           "native_unit": "ETH",
           "positions": 5,
           "deployed_positions": 3,
@@ -661,7 +661,7 @@ window.__AUM_DATA__ = {
         }
       },
       "unclassified": {
-        "value_usd": 2312323.25,
+        "value_usd": 2306426.96,
         "positions": 4
       },
       "reconciliation": {
@@ -671,9 +671,9 @@ window.__AUM_DATA__ = {
       "wallets": [
         {
           "address": "0x0efccbb9e2c09ea29551879bd9da32362b32fc89",
-          "total_usd": 7817653.94,
-          "deployed_usd": 7168494.72,
-          "idle_usd": 649159.21,
+          "total_usd": 7815585.69,
+          "deployed_usd": 7173881.05,
+          "idle_usd": 641704.64,
           "positions": 18,
           "holdings": [
             {
@@ -682,8 +682,8 @@ window.__AUM_DATA__ = {
               "protocol": "agave",
               "chain": "gnosis",
               "bucket": "USD",
-              "value_usd": 1816245.17,
-              "apy_pct": 3.94,
+              "value_usd": 1816966.13,
+              "apy_pct": 4.68,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -693,8 +693,8 @@ window.__AUM_DATA__ = {
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 1792706.5,
-              "apy_pct": 2.22,
+              "value_usd": 1795006.1,
+              "apy_pct": 2.23,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -704,8 +704,8 @@ window.__AUM_DATA__ = {
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 1750020.83,
-              "apy_pct": 3.63,
+              "value_usd": 1750174.25,
+              "apy_pct": 3.62,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -715,7 +715,7 @@ window.__AUM_DATA__ = {
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 488241.15,
+              "value_usd": 488316.74,
               "apy_pct": 6.74,
               "is_idle": false,
               "apy_excluded": false
@@ -726,7 +726,7 @@ window.__AUM_DATA__ = {
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 478614.0,
+              "value_usd": 478671.86,
               "apy_pct": 4.34,
               "is_idle": false,
               "apy_excluded": false
@@ -737,7 +737,7 @@ window.__AUM_DATA__ = {
               "protocol": "spark",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 353000.79,
+              "value_usd": 353031.46,
               "apy_pct": 3.52,
               "is_idle": false,
               "apy_excluded": false
@@ -748,8 +748,8 @@ window.__AUM_DATA__ = {
               "protocol": "stakewise",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 344290.88,
-              "apy_pct": 2.17,
+              "value_usd": 345745.52,
+              "apy_pct": 2.35,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -759,8 +759,8 @@ window.__AUM_DATA__ = {
               "protocol": "rocket pool",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 140556.11,
-              "apy_pct": 2.24,
+              "value_usd": 141149.23,
+              "apy_pct": 2.25,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -770,7 +770,7 @@ window.__AUM_DATA__ = {
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 4807.82,
+              "value_usd": 4808.25,
               "apy_pct": 3.64,
               "is_idle": false,
               "apy_excluded": false
@@ -781,7 +781,7 @@ window.__AUM_DATA__ = {
               "protocol": "stakewise",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 8.76,
+              "value_usd": 8.8,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": false
@@ -793,7 +793,7 @@ window.__AUM_DATA__ = {
               "chain": "ethereum",
               "bucket": "USD",
               "value_usd": 1.58,
-              "apy_pct": 3.35,
+              "apy_pct": 3.34,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -814,7 +814,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 275706.02,
+              "value_usd": 271456.76,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -825,7 +825,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 166294.39,
+              "value_usd": 162920.38,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": true
@@ -836,7 +836,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 127472.1,
+              "value_usd": 128213.17,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -847,7 +847,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 77616.34,
+              "value_usd": 77043.73,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -858,7 +858,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 2062.32,
+              "value_usd": 2062.51,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -869,7 +869,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "gnosis",
               "bucket": "ETH",
-              "value_usd": 8.04,
+              "value_usd": 8.09,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -880,33 +880,33 @@ window.__AUM_DATA__ = {
     },
     {
       "name": "Nexus Mutual",
-      "total_usd": 6299839.57,
-      "deployed_usd": 6183142.02,
-      "idle_usd": 116697.55,
-      "deployed_apy_pct": 5.2846,
-      "share_pct": 5.58,
+      "total_usd": 6307377.13,
+      "deployed_usd": 6190500.15,
+      "idle_usd": 116876.98,
+      "deployed_apy_pct": 5.2858,
+      "share_pct": 5.5766,
       "wallet_count": 1,
       "positions": 15,
       "buckets": {
         "USD": {
-          "value_usd": 1864976.65,
-          "deployed_usd": 1862320.8,
-          "measured_usd": 1361591.64,
-          "idle_usd": 2655.85,
-          "avg_apy_pct": 6.1436,
-          "native_value": 1864976.645965,
+          "value_usd": 1865170.81,
+          "deployed_usd": 1862514.72,
+          "measured_usd": 1361788.56,
+          "idle_usd": 2656.09,
+          "avg_apy_pct": 6.1495,
+          "native_value": 1865170.812916,
           "native_unit": "USD",
           "positions": 7,
           "deployed_positions": 6,
           "idle_positions": 1
         },
         "ETH": {
-          "value_usd": 523688.54,
-          "deployed_usd": 518785.21,
-          "measured_usd": 300009.14,
-          "idle_usd": 4903.33,
-          "avg_apy_pct": 1.3861,
-          "native_value": 273.115308,
+          "value_usd": 525685.18,
+          "deployed_usd": 520753.35,
+          "measured_usd": 301275.48,
+          "idle_usd": 4931.83,
+          "avg_apy_pct": 1.3817,
+          "native_value": 273.021082,
           "native_unit": "ETH",
           "positions": 4,
           "deployed_positions": 3,
@@ -926,7 +926,7 @@ window.__AUM_DATA__ = {
         }
       },
       "unclassified": {
-        "value_usd": 3911174.39,
+        "value_usd": 3916521.14,
         "positions": 4
       },
       "reconciliation": {
@@ -936,9 +936,9 @@ window.__AUM_DATA__ = {
       "wallets": [
         {
           "address": "0x8e53d04644e9ab0412a8c6bd228c84da7664cfe3",
-          "total_usd": 6299839.57,
-          "deployed_usd": 6183142.02,
-          "idle_usd": 116697.55,
+          "total_usd": 6307377.13,
+          "deployed_usd": 6190500.15,
+          "idle_usd": 116876.98,
           "positions": 15,
           "holdings": [
             {
@@ -947,7 +947,7 @@ window.__AUM_DATA__ = {
               "protocol": "nexus mutual",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 3802036.01,
+              "value_usd": 3807232.08,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": true
@@ -958,7 +958,7 @@ window.__AUM_DATA__ = {
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 739842.64,
+              "value_usd": 739957.18,
               "apy_pct": 6.74,
               "is_idle": false,
               "apy_excluded": false
@@ -969,7 +969,7 @@ window.__AUM_DATA__ = {
               "protocol": "uniswap-v3",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 500729.16,
+              "value_usd": 500726.16,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": true
@@ -980,8 +980,8 @@ window.__AUM_DATA__ = {
               "protocol": "fluid",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 307256.32,
-              "apy_pct": 5.16,
+              "value_usd": 307294.91,
+              "apy_pct": 5.19,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -991,7 +991,7 @@ window.__AUM_DATA__ = {
               "protocol": "nexus mutual",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 252098.6,
+              "value_usd": 252135.49,
               "apy_pct": 6.0,
               "is_idle": false,
               "apy_excluded": false
@@ -1002,7 +1002,7 @@ window.__AUM_DATA__ = {
               "protocol": "ether.fi",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 218776.07,
+              "value_usd": 219477.87,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": true
@@ -1013,8 +1013,8 @@ window.__AUM_DATA__ = {
               "protocol": "stakewise",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 155798.22,
-              "apy_pct": 2.16,
+              "value_usd": 156454.47,
+              "apy_pct": 2.17,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -1024,8 +1024,8 @@ window.__AUM_DATA__ = {
               "protocol": "gearbox",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 144210.92,
-              "apy_pct": 0.55,
+              "value_usd": 144821.0,
+              "apy_pct": 0.53,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -1035,8 +1035,8 @@ window.__AUM_DATA__ = {
               "protocol": "fluid",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 59419.44,
-              "apy_pct": 4.54,
+              "value_usd": 59426.08,
+              "apy_pct": 4.52,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -1046,8 +1046,8 @@ window.__AUM_DATA__ = {
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 2974.63,
-              "apy_pct": 3.63,
+              "value_usd": 2974.89,
+              "apy_pct": 3.62,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -1057,7 +1057,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 109025.25,
+              "value_usd": 109174.25,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": true
@@ -1068,7 +1068,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 4903.33,
+              "value_usd": 4931.83,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -1079,7 +1079,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 2655.85,
+              "value_usd": 2656.09,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -1090,7 +1090,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 58.8,
+              "value_usd": 59.58,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -1101,7 +1101,7 @@ window.__AUM_DATA__ = {
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 54.33,
+              "value_usd": 55.23,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -1113,10 +1113,6 @@ window.__AUM_DATA__ = {
   ],
   "history": {
     "firm_total": [
-      {
-        "date": "2026-07-11",
-        "value": 113068375.58
-      },
       {
         "date": "2026-07-12",
         "value": 113121096.47
@@ -1232,14 +1228,14 @@ window.__AUM_DATA__ = {
       {
         "date": "2026-08-09",
         "value": 112899901.96
+      },
+      {
+        "date": "2026-08-10",
+        "value": 113103868.89
       }
     ],
     "by_denom": {
       "USD": [
-        {
-          "date": "2026-07-11",
-          "value": 50204605.21
-        },
         {
           "date": "2026-07-12",
           "value": 50209343.58
@@ -1355,13 +1351,13 @@ window.__AUM_DATA__ = {
         {
           "date": "2026-08-09",
           "value": 51556594.46
+        },
+        {
+          "date": "2026-08-10",
+          "value": 51564439.05
         }
       ],
       "ETH": [
-        {
-          "date": "2026-07-11",
-          "value": 52182199.78
-        },
         {
           "date": "2026-07-12",
           "value": 52209098.76
@@ -1477,13 +1473,13 @@ window.__AUM_DATA__ = {
         {
           "date": "2026-08-09",
           "value": 51660863.5
+        },
+        {
+          "date": "2026-08-10",
+          "value": 51863526.63
         }
       ],
       "EUR": [
-        {
-          "date": "2026-07-11",
-          "value": 3151346.84
-        },
         {
           "date": "2026-07-12",
           "value": 3148684.13
@@ -1599,15 +1595,15 @@ window.__AUM_DATA__ = {
         {
           "date": "2026-08-09",
           "value": 3194780.41
+        },
+        {
+          "date": "2026-08-10",
+          "value": 3194148.64
         }
       ]
     },
     "by_client": {
       "ENS": [
-        {
-          "date": "2026-07-11",
-          "value": 74501720.83
-        },
         {
           "date": "2026-07-12",
           "value": 74526934.38
@@ -1723,13 +1719,13 @@ window.__AUM_DATA__ = {
         {
           "date": "2026-08-09",
           "value": 76602550.69
+        },
+        {
+          "date": "2026-08-10",
+          "value": 76799649.1
         }
       ],
       "CoW DAO": [
-        {
-          "date": "2026-07-11",
-          "value": 25019699.89
-        },
         {
           "date": "2026-07-12",
           "value": 25028025.48
@@ -1845,13 +1841,13 @@ window.__AUM_DATA__ = {
         {
           "date": "2026-08-09",
           "value": 22179857.76
+        },
+        {
+          "date": "2026-08-10",
+          "value": 22181256.97
         }
       ],
       "Balancer DAO": [
-        {
-          "date": "2026-07-11",
-          "value": 6913689.63
-        },
         {
           "date": "2026-07-12",
           "value": 6931198.18
@@ -1967,13 +1963,13 @@ window.__AUM_DATA__ = {
         {
           "date": "2026-08-09",
           "value": 7817653.94
+        },
+        {
+          "date": "2026-08-10",
+          "value": 7815585.69
         }
       ],
       "Nexus Mutual": [
-        {
-          "date": "2026-07-11",
-          "value": 6633265.23
-        },
         {
           "date": "2026-07-12",
           "value": 6634938.43
@@ -2089,129 +2085,133 @@ window.__AUM_DATA__ = {
         {
           "date": "2026-08-09",
           "value": 6299839.57
+        },
+        {
+          "date": "2026-08-10",
+          "value": 6307377.13
         }
       ]
     },
     "cumulative_alpha": [
       {
-        "date": "2026-07-11",
+        "date": "2026-07-12",
         "value": 0.0
       },
       {
-        "date": "2026-07-12",
-        "value": 863.45
-      },
-      {
         "date": "2026-07-13",
-        "value": 1785.84
+        "value": 922.4
       },
       {
         "date": "2026-07-14",
-        "value": 2594.25
+        "value": 1730.8
       },
       {
         "date": "2026-07-15",
-        "value": 3592.81
+        "value": 2729.37
       },
       {
         "date": "2026-07-16",
-        "value": 5351.39
+        "value": 4487.94
       },
       {
         "date": "2026-07-17",
-        "value": 6982.98
+        "value": 6119.53
       },
       {
         "date": "2026-07-18",
-        "value": 8793.15
+        "value": 7929.7
       },
       {
         "date": "2026-07-19",
-        "value": 10277.17
+        "value": 9413.73
       },
       {
         "date": "2026-07-20",
-        "value": 11494.0
+        "value": 10630.56
       },
       {
         "date": "2026-07-21",
-        "value": 13011.41
+        "value": 12147.96
       },
       {
         "date": "2026-07-22",
-        "value": 14445.76
+        "value": 13582.31
       },
       {
         "date": "2026-07-23",
-        "value": 16156.56
+        "value": 15293.11
       },
       {
         "date": "2026-07-24",
-        "value": 17901.69
+        "value": 17038.24
       },
       {
         "date": "2026-07-25",
-        "value": 19737.54
+        "value": 18874.09
       },
       {
         "date": "2026-07-26",
-        "value": 21853.56
+        "value": 20990.12
       },
       {
         "date": "2026-07-27",
-        "value": 23824.2
+        "value": 22960.75
       },
       {
         "date": "2026-07-28",
-        "value": 25839.53
+        "value": 24976.09
       },
       {
         "date": "2026-07-29",
-        "value": 27670.98
+        "value": 26807.53
       },
       {
         "date": "2026-07-30",
-        "value": 29761.99
+        "value": 28898.55
       },
       {
         "date": "2026-07-31",
-        "value": 31655.73
+        "value": 30792.28
       },
       {
         "date": "2026-08-01",
-        "value": 33415.3
+        "value": 32551.85
       },
       {
         "date": "2026-08-02",
-        "value": 35001.17
+        "value": 34137.72
       },
       {
         "date": "2026-08-03",
-        "value": 36598.62
+        "value": 35735.17
       },
       {
         "date": "2026-08-04",
-        "value": 37934.01
+        "value": 37070.56
       },
       {
         "date": "2026-08-05",
-        "value": 39491.57
+        "value": 38628.12
       },
       {
         "date": "2026-08-06",
-        "value": 40539.16
+        "value": 39675.71
       },
       {
         "date": "2026-08-07",
-        "value": 41739.29
+        "value": 40875.84
       },
       {
         "date": "2026-08-08",
-        "value": 42952.9
+        "value": 42089.45
       },
       {
         "date": "2026-08-09",
-        "value": 44084.94
+        "value": 43221.49
+      },
+      {
+        "date": "2026-08-10",
+        "value": 44648.52
       }
     ]
   },
@@ -2232,73 +2232,73 @@ window.__AUM_DATA__ = {
     "reference_network": "mainnet",
     "USD": {
       "pocket": {
-        "1day": 3.5248,
-        "7day": 4.2298,
-        "30day": 4.4135
+        "1day": 4.8416,
+        "7day": 4.355,
+        "30day": 4.4474
       },
       "by_client": {
         "CoW DAO": {
-          "1day": 2.3534,
-          "7day": 3.9077,
-          "30day": 4.117
+          "1day": 5.3641,
+          "7day": 4.1854,
+          "30day": 4.2121
         },
         "Balancer DAO": {
-          "1day": 2.5899,
-          "7day": 4.1171,
-          "30day": 4.3377
+          "1day": 5.5067,
+          "7day": 4.3884,
+          "30day": 4.4289
         },
         "ENS": {
-          "1day": 4.3385,
-          "7day": 4.3663,
-          "30day": 4.5277
+          "1day": 4.3201,
+          "7day": 4.3704,
+          "30day": 4.5133
         },
         "Nexus Mutual": {
-          "1day": 6.0804,
-          "7day": 6.1436,
-          "30day": 6.3002
+          "1day": 5.9507,
+          "7day": 6.1495,
+          "30day": 6.2871
         }
       },
       "benchmark": {
-        "1day": 3.54,
+        "1day": 3.55,
         "7day": 3.53,
-        "30day": 3.52
+        "30day": 3.51
       },
-      "spread_pct": 0.6998
+      "spread_pct": 0.825
     },
     "ETH": {
       "pocket": {
-        "1day": 2.3993,
-        "7day": 2.2127,
-        "30day": 2.2538
+        "1day": 2.3373,
+        "7day": 2.3063,
+        "30day": 2.2576
       },
       "by_client": {
         "CoW DAO": {
-          "1day": 2.16,
+          "1day": 2.22,
           "7day": 2.2,
           "30day": 2.22
         },
         "Balancer DAO": {
-          "1day": 2.3507,
-          "7day": 2.1903,
+          "1day": 2.372,
+          "7day": 2.321,
           "30day": 2.291
         },
         "ENS": {
-          "1day": 2.4144,
-          "7day": 2.2207,
-          "30day": 2.2611
+          "1day": 2.3483,
+          "7day": 2.3167,
+          "30day": 2.2652
         },
         "Nexus Mutual": {
-          "1day": 1.368,
-          "7day": 1.3861,
-          "30day": 1.4674
+          "1day": 1.342,
+          "7day": 1.3817,
+          "30day": 1.4578
         }
       },
       "benchmark": {
-        "1day": 2.01,
-        "7day": 2.11,
+        "1day": 2.1,
+        "7day": 2.12,
         "30day": 2.12
       },
-      "spread_pct": 0.1027
+      "spread_pct": 0.1863
     }
   }
 };
