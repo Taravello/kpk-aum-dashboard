@@ -1,55 +1,55 @@
 {
   "date": "2026-08-31",
-  "updated_at": "2026-08-31 14:11 UTC",
+  "updated_at": "2026-08-31 17:13 UTC",
   "mode": "live",
   "apy_window": "7day",
   "reference_prices": {
-    "eth_usd": 2446.82,
-    "eur_usd": 1.1576
+    "eth_usd": 2469.51,
+    "eur_usd": 1.1613
   },
   "firm": {
     "name": "KPK",
-    "total_usd": 131390310.96,
-    "deployed_usd": 127872108.98,
-    "idle_usd": 3518201.98,
-    "deployed_apy_pct": 3.5811,
+    "total_usd": 132062746.63,
+    "deployed_usd": 129137483.74,
+    "idle_usd": 2925262.89,
+    "deployed_apy_pct": 3.5792,
     "clients": 4,
     "wallets": 6,
-    "positions": 61,
+    "positions": 62,
     "deployed_positions": 40,
-    "idle_positions": 21,
+    "idle_positions": 22,
     "buckets": {
       "USD": {
-        "value_usd": 55839668.51,
-        "deployed_usd": 55832165.94,
-        "measured_usd": 55331336.1,
-        "idle_usd": 7502.57,
-        "avg_apy_pct": 4.6306,
-        "native_value": 55839668.506164,
+        "value_usd": 56457798.77,
+        "deployed_usd": 56450296.12,
+        "measured_usd": 55949447.74,
+        "idle_usd": 7502.65,
+        "avg_apy_pct": 4.6243,
+        "native_value": 56457798.774477,
         "native_unit": "USD",
         "positions": 28,
         "deployed_positions": 23,
         "idle_positions": 5
       },
       "ETH": {
-        "value_usd": 64275763.85,
-        "deployed_usd": 61756682.13,
-        "measured_usd": 41172159.33,
-        "idle_usd": 2519081.72,
+        "value_usd": 64267668.08,
+        "deployed_usd": 62343916.02,
+        "measured_usd": 41554014.29,
+        "idle_usd": 1923752.06,
         "avg_apy_pct": 2.3519,
-        "native_value": 26269.093847,
+        "native_value": 26024.420389,
         "native_unit": "ETH",
-        "positions": 19,
+        "positions": 20,
         "deployed_positions": 12,
-        "idle_positions": 7
+        "idle_positions": 8
       },
       "EUR": {
-        "value_usd": 3205432.56,
-        "deployed_usd": 3205432.56,
-        "measured_usd": 3205432.56,
+        "value_usd": 3215474.3,
+        "deployed_usd": 3215474.3,
+        "measured_usd": 3215474.3,
         "idle_usd": 0,
         "avg_apy_pct": 2.284,
-        "native_value": 2769085.310665,
+        "native_value": 2768959.514282,
         "native_unit": "EUR",
         "positions": 3,
         "deployed_positions": 3,
@@ -57,13 +57,13 @@
       }
     },
     "unclassified": {
-      "value_usd": 8069446.04,
+      "value_usd": 8121805.47,
       "positions": 11
     },
     "manual_adjustments_usd": 0,
     "stats": {
-      "deployed_apy_pct": 3.5811,
-      "est_annual_yield_usd": 3656976.18,
+      "deployed_apy_pct": 3.5792,
+      "est_annual_yield_usd": 3691556.65,
       "protocol_count": 15,
       "protocols": [
         "aave",
@@ -94,7 +94,7 @@
           "protocol": "stakewise",
           "chain": "ethereum",
           "client": "ENS",
-          "value_usd": 20319556.21,
+          "value_usd": 20508010.94,
           "apy_pct": 2.36
         },
         {
@@ -103,7 +103,7 @@
           "protocol": "ether.fi",
           "chain": "ethereum",
           "client": "ENS",
-          "value_usd": 20085769.82,
+          "value_usd": 20285928.04,
           "apy_pct": 0.0
         },
         {
@@ -112,7 +112,7 @@
           "protocol": "ethx",
           "chain": "ethereum",
           "client": "ENS",
-          "value_usd": 17421076.86,
+          "value_usd": 17582649.5,
           "apy_pct": 2.38
         },
         {
@@ -121,8 +121,8 @@
           "protocol": "fluid",
           "chain": "ethereum",
           "client": "ENS",
-          "value_usd": 9966788.68,
-          "apy_pct": 4.96
+          "value_usd": 9966984.28,
+          "apy_pct": 4.99
         },
         {
           "symbol": "USDC",
@@ -130,7 +130,7 @@
           "protocol": "morpho",
           "chain": "ethereum",
           "client": "ENS",
-          "value_usd": 7911873.53,
+          "value_usd": 7911989.3,
           "apy_pct": 4.62
         }
       ]
@@ -144,37 +144,37 @@
   "clients": [
     {
       "name": "ENS",
-      "total_usd": 92525868.48,
-      "deployed_usd": 90875654.0,
-      "idle_usd": 1650214.49,
-      "deployed_apy_pct": 3.387,
-      "share_pct": 70.4206,
+      "total_usd": 93112970.0,
+      "deployed_usd": 92065581.73,
+      "idle_usd": 1047388.28,
+      "deployed_apy_pct": 3.3863,
+      "share_pct": 70.5066,
       "wallet_count": 1,
-      "positions": 13,
+      "positions": 14,
       "buckets": {
         "USD": {
-          "value_usd": 30542592.09,
-          "deployed_usd": 30538281.89,
-          "measured_usd": 30538281.89,
+          "value_usd": 31159046.13,
+          "deployed_usd": 31154735.93,
+          "measured_usd": 31154735.93,
           "idle_usd": 4310.2,
-          "avg_apy_pct": 4.7383,
-          "native_value": 30542592.087595,
+          "avg_apy_pct": 4.7222,
+          "native_value": 31159046.128593,
           "native_unit": "USD",
           "positions": 8,
           "deployed_positions": 7,
           "idle_positions": 1
         },
         "ETH": {
-          "value_usd": 61983276.4,
-          "deployed_usd": 60337372.11,
-          "measured_usd": 40251602.29,
-          "idle_usd": 1645904.29,
+          "value_usd": 61953923.87,
+          "deployed_usd": 60910845.8,
+          "measured_usd": 40624917.76,
+          "idle_usd": 1043078.08,
           "avg_apy_pct": 2.3618,
-          "native_value": 25332.168876,
+          "native_value": 25087.497457,
           "native_unit": "ETH",
-          "positions": 5,
+          "positions": 6,
           "deployed_positions": 4,
-          "idle_positions": 1
+          "idle_positions": 2
         },
         "EUR": {
           "value_usd": 0,
@@ -200,10 +200,10 @@
       "wallets": [
         {
           "address": "0x4f2083f5fbede34c2714affb3105539775f7fe64",
-          "total_usd": 92525868.48,
-          "deployed_usd": 90875654.0,
-          "idle_usd": 1650214.49,
-          "positions": 13,
+          "total_usd": 93112970.0,
+          "deployed_usd": 92065581.73,
+          "idle_usd": 1047388.28,
+          "positions": 14,
           "holdings": [
             {
               "symbol": "ETH",
@@ -211,7 +211,7 @@
               "protocol": "stakewise",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 20319556.21,
+              "value_usd": 20508010.94,
               "apy_pct": 2.36,
               "is_idle": false,
               "apy_excluded": false
@@ -222,7 +222,7 @@
               "protocol": "ether.fi",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 20085769.82,
+              "value_usd": 20285928.04,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": true
@@ -233,7 +233,7 @@
               "protocol": "ethx",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 17421076.86,
+              "value_usd": 17582649.5,
               "apy_pct": 2.38,
               "is_idle": false,
               "apy_excluded": false
@@ -244,8 +244,8 @@
               "protocol": "fluid",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 9966788.68,
-              "apy_pct": 4.96,
+              "value_usd": 9966984.28,
+              "apy_pct": 4.99,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -255,7 +255,7 @@
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 7911873.53,
+              "value_usd": 7911989.3,
               "apy_pct": 4.62,
               "is_idle": false,
               "apy_excluded": false
@@ -266,8 +266,8 @@
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 4985237.73,
-              "apy_pct": 3.67,
+              "value_usd": 4985294.71,
+              "apy_pct": 3.66,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -277,19 +277,8 @@
               "protocol": "sky",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 2638893.34,
+              "value_usd": 3254885.55,
               "apy_pct": 3.52,
-              "is_idle": false,
-              "apy_excluded": false
-            },
-            {
-              "symbol": "GHO",
-              "name": "Fluid GHO",
-              "protocol": "fluid",
-              "chain": "ethereum",
-              "bucket": "USD",
-              "value_usd": 2513168.28,
-              "apy_pct": 6.61,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -299,8 +288,19 @@
               "protocol": "lido",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 2510969.21,
+              "value_usd": 2534257.32,
               "apy_pct": 2.25,
+              "is_idle": false,
+              "apy_excluded": false
+            },
+            {
+              "symbol": "GHO",
+              "name": "Fluid GHO",
+              "protocol": "fluid",
+              "chain": "ethereum",
+              "bucket": "USD",
+              "value_usd": 2513205.64,
+              "apy_pct": 6.61,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -310,8 +310,8 @@
               "protocol": "compound",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 1504284.15,
-              "apy_pct": 5.86,
+              "value_usd": 1504324.74,
+              "apy_pct": 5.88,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -321,9 +321,20 @@
               "protocol": "fluid",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 1018036.17,
-              "apy_pct": 5.6,
+              "value_usd": 1018051.72,
+              "apy_pct": 5.57,
               "is_idle": false,
+              "apy_excluded": false
+            },
+            {
+              "symbol": "WETH",
+              "name": "Wrapped Ether",
+              "protocol": "",
+              "chain": "ethereum",
+              "bucket": "ETH",
+              "value_usd": 616956.9,
+              "apy_pct": 0.0,
+              "is_idle": true,
               "apy_excluded": false
             },
             {
@@ -332,7 +343,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 1645904.29,
+              "value_usd": 426121.18,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -354,45 +365,45 @@
     },
     {
       "name": "CoW DAO",
-      "total_usd": 22904726.8,
-      "deployed_usd": 21926884.38,
-      "idle_usd": 977842.41,
-      "deployed_apy_pct": 3.9606,
-      "share_pct": 17.4326,
+      "total_usd": 22930593.14,
+      "deployed_usd": 21942742.14,
+      "idle_usd": 987851.0,
+      "deployed_apy_pct": 3.9628,
+      "share_pct": 17.3634,
       "wallet_count": 3,
       "positions": 17,
       "buckets": {
         "USD": {
-          "value_usd": 18277134.78,
-          "deployed_usd": 18275770.21,
-          "measured_usd": 18275770.21,
-          "idle_usd": 1364.57,
-          "avg_apy_pct": 4.2758,
-          "native_value": 18277134.777188,
+          "value_usd": 18278415.12,
+          "deployed_usd": 18277050.48,
+          "measured_usd": 18277050.48,
+          "idle_usd": 1364.65,
+          "avg_apy_pct": 4.2795,
+          "native_value": 18278415.123922,
           "native_unit": "USD",
           "positions": 7,
           "deployed_positions": 4,
           "idle_positions": 3
         },
         "ETH": {
-          "value_usd": 1125201.04,
-          "deployed_usd": 445681.61,
-          "measured_usd": 226032.53,
-          "idle_usd": 679519.43,
+          "value_usd": 1135570.72,
+          "deployed_usd": 450217.36,
+          "measured_usd": 228128.88,
+          "idle_usd": 685353.35,
           "avg_apy_pct": 2.25,
-          "native_value": 459.862475,
+          "native_value": 459.835724,
           "native_unit": "ETH",
           "positions": 5,
           "deployed_positions": 2,
           "idle_positions": 3
         },
         "EUR": {
-          "value_usd": 3205432.56,
-          "deployed_usd": 3205432.56,
-          "measured_usd": 3205432.56,
+          "value_usd": 3215474.3,
+          "deployed_usd": 3215474.3,
+          "measured_usd": 3215474.3,
           "idle_usd": 0,
           "avg_apy_pct": 2.284,
-          "native_value": 2769085.310665,
+          "native_value": 2768959.514282,
           "native_unit": "EUR",
           "positions": 3,
           "deployed_positions": 3,
@@ -400,7 +411,7 @@
         }
       },
       "unclassified": {
-        "value_usd": 296958.42,
+        "value_usd": 301133.0,
         "positions": 2
       },
       "reconciliation": {
@@ -410,9 +421,9 @@
       "wallets": [
         {
           "address": "0x616de58c011f8736fa20c7ae5352f7f6fb9f0669",
-          "total_usd": 17575900.66,
-          "deployed_usd": 16598072.68,
-          "idle_usd": 977827.98,
+          "total_usd": 17600894.27,
+          "deployed_usd": 16613057.81,
+          "idle_usd": 987836.46,
           "positions": 15,
           "holdings": [
             {
@@ -421,7 +432,7 @@
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 7459103.35,
+              "value_usd": 7459212.49,
               "apy_pct": 4.62,
               "is_idle": false,
               "apy_excluded": false
@@ -432,7 +443,7 @@
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 4022618.63,
+              "value_usd": 4022677.18,
               "apy_pct": 4.34,
               "is_idle": false,
               "apy_excluded": false
@@ -443,7 +454,7 @@
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "EUR",
-              "value_usd": 2563897.6,
+              "value_usd": 2571724.15,
               "apy_pct": 2.3,
               "is_idle": false,
               "apy_excluded": false
@@ -454,8 +465,8 @@
               "protocol": "agave",
               "chain": "gnosis",
               "bucket": "USD",
-              "value_usd": 1465236.52,
-              "apy_pct": 3.86,
+              "value_usd": 1465476.47,
+              "apy_pct": 3.87,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -465,7 +476,7 @@
               "protocol": "aave",
               "chain": "gnosis",
               "bucket": "EUR",
-              "value_usd": 641534.36,
+              "value_usd": 643749.56,
               "apy_pct": 2.22,
               "is_idle": false,
               "apy_excluded": false
@@ -476,7 +487,7 @@
               "protocol": "lido",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 226032.53,
+              "value_usd": 228128.88,
               "apy_pct": 2.25,
               "is_idle": false,
               "apy_excluded": false
@@ -487,7 +498,7 @@
               "protocol": "lido",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 219649.08,
+              "value_usd": 222088.48,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": true
@@ -509,7 +520,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 606498.92,
+              "value_usd": 611705.94,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -520,7 +531,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 296943.98,
+              "value_usd": 301118.46,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": true
@@ -531,7 +542,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 67852.3,
+              "value_usd": 68434.84,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -542,7 +553,7 @@
               "protocol": "",
               "chain": "gnosis",
               "bucket": "ETH",
-              "value_usd": 5168.21,
+              "value_usd": 5212.58,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -553,7 +564,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 1210.19,
+              "value_usd": 1210.27,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -584,8 +595,8 @@
         },
         {
           "address": "0x7f8987d6a8bee31bd7be80e877732579e2582a28",
-          "total_usd": 5328811.7,
-          "deployed_usd": 5328811.7,
+          "total_usd": 5329684.33,
+          "deployed_usd": 5329684.33,
           "idle_usd": 0.0,
           "positions": 1,
           "holdings": [
@@ -595,8 +606,8 @@
               "protocol": "agave",
               "chain": "gnosis",
               "bucket": "USD",
-              "value_usd": 5328811.7,
-              "apy_pct": 3.86,
+              "value_usd": 5329684.33,
+              "apy_pct": 3.87,
               "is_idle": false,
               "apy_excluded": false
             }
@@ -604,9 +615,9 @@
         },
         {
           "address": "0x9009B4411D0e1171cc042b77D7701f46B737Fdb9",
-          "total_usd": 14.44,
+          "total_usd": 14.54,
           "deployed_usd": 0.0,
-          "idle_usd": 14.44,
+          "idle_usd": 14.54,
           "positions": 1,
           "holdings": [
             {
@@ -615,7 +626,7 @@
               "protocol": "",
               "chain": "gnosis",
               "bucket": "\u2014",
-              "value_usd": 14.44,
+              "value_usd": 14.54,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -626,33 +637,33 @@
     },
     {
       "name": "Balancer DAO",
-      "total_usd": 8610676.05,
-      "deployed_usd": 7864831.0,
-      "idle_usd": 745845.05,
-      "deployed_apy_pct": 3.7775,
-      "share_pct": 6.5535,
+      "total_usd": 8624740.1,
+      "deployed_usd": 7880178.07,
+      "idle_usd": 744562.03,
+      "deployed_apy_pct": 3.7768,
+      "share_pct": 6.5308,
       "wallet_count": 1,
       "positions": 17,
       "buckets": {
         "USD": {
-          "value_usd": 5144170.13,
-          "deployed_usd": 5144170.13,
-          "measured_usd": 5144170.13,
+          "value_usd": 5144519.75,
+          "deployed_usd": 5144519.75,
+          "measured_usd": 5144519.75,
           "idle_usd": 0,
-          "avg_apy_pct": 4.6027,
-          "native_value": 5144170.125962,
+          "avg_apy_pct": 4.6062,
+          "native_value": 5144519.752975,
           "native_unit": "USD",
           "positions": 8,
           "deployed_positions": 8,
           "idle_positions": 0
         },
         "ETH": {
-          "value_usd": 497125.04,
-          "deployed_usd": 311127.04,
-          "measured_usd": 311127.04,
-          "idle_usd": 185998.0,
+          "value_usd": 501607.46,
+          "deployed_usd": 314012.6,
+          "measured_usd": 314012.6,
+          "idle_usd": 187594.86,
           "avg_apy_pct": 2.2733,
-          "native_value": 203.171827,
+          "native_value": 203.119919,
           "native_unit": "ETH",
           "positions": 5,
           "deployed_positions": 3,
@@ -672,7 +683,7 @@
         }
       },
       "unclassified": {
-        "value_usd": 2969380.88,
+        "value_usd": 2978612.88,
         "positions": 4
       },
       "reconciliation": {
@@ -682,9 +693,9 @@
       "wallets": [
         {
           "address": "0x0efccbb9e2c09ea29551879bd9da32362b32fc89",
-          "total_usd": 8610676.05,
-          "deployed_usd": 7864831.0,
-          "idle_usd": 745845.05,
+          "total_usd": 8624740.1,
+          "deployed_usd": 7880178.07,
+          "idle_usd": 744562.03,
           "positions": 17,
           "holdings": [
             {
@@ -693,7 +704,7 @@
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 2409533.84,
+              "value_usd": 2421645.72,
               "apy_pct": 2.21,
               "is_idle": false,
               "apy_excluded": false
@@ -704,7 +715,7 @@
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 1884783.94,
+              "value_usd": 1884811.51,
               "apy_pct": 4.62,
               "is_idle": false,
               "apy_excluded": false
@@ -715,8 +726,8 @@
               "protocol": "agave",
               "chain": "gnosis",
               "bucket": "USD",
-              "value_usd": 1820749.4,
-              "apy_pct": 3.86,
+              "value_usd": 1821047.56,
+              "apy_pct": 3.87,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -726,7 +737,7 @@
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 639835.37,
+              "value_usd": 639848.49,
               "apy_pct": 7.4,
               "is_idle": false,
               "apy_excluded": false
@@ -737,7 +748,7 @@
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 480263.86,
+              "value_usd": 480270.85,
               "apy_pct": 4.34,
               "is_idle": false,
               "apy_excluded": false
@@ -748,7 +759,7 @@
               "protocol": "spark",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 313716.08,
+              "value_usd": 313719.8,
               "apy_pct": 3.52,
               "is_idle": false,
               "apy_excluded": false
@@ -759,7 +770,7 @@
               "protocol": "rocket pool",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 179594.36,
+              "value_usd": 181260.02,
               "apy_pct": 2.21,
               "is_idle": false,
               "apy_excluded": false
@@ -770,7 +781,7 @@
               "protocol": "stakewise",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 131521.49,
+              "value_usd": 132741.3,
               "apy_pct": 2.36,
               "is_idle": false,
               "apy_excluded": false
@@ -781,8 +792,8 @@
               "protocol": "aave",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 4818.76,
-              "apy_pct": 3.67,
+              "value_usd": 4818.81,
+              "apy_pct": 3.66,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -792,7 +803,7 @@
               "protocol": "stakewise",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 11.18,
+              "value_usd": 11.29,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": false
@@ -804,7 +815,7 @@
               "chain": "ethereum",
               "bucket": "USD",
               "value_usd": 1.59,
-              "apy_pct": 5.86,
+              "apy_pct": 5.88,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -825,7 +836,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 345573.34,
+              "value_usd": 341461.93,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -836,7 +847,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 185987.72,
+              "value_usd": 187584.49,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -847,7 +858,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 138472.33,
+              "value_usd": 140419.0,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": true
@@ -858,7 +869,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 75801.37,
+              "value_usd": 75086.23,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -869,7 +880,7 @@
               "protocol": "",
               "chain": "gnosis",
               "bucket": "ETH",
-              "value_usd": 10.28,
+              "value_usd": 10.37,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -880,33 +891,33 @@
     },
     {
       "name": "Nexus Mutual",
-      "total_usd": 7349039.63,
-      "deployed_usd": 7204739.59,
-      "idle_usd": 144300.04,
-      "deployed_apy_pct": 5.8339,
-      "share_pct": 5.5933,
+      "total_usd": 7394443.39,
+      "deployed_usd": 7248981.8,
+      "idle_usd": 145461.59,
+      "deployed_apy_pct": 5.824,
+      "share_pct": 5.5992,
       "wallet_count": 1,
       "positions": 14,
       "buckets": {
         "USD": {
-          "value_usd": 1875771.52,
-          "deployed_usd": 1873943.71,
-          "measured_usd": 1373113.87,
+          "value_usd": 1875817.77,
+          "deployed_usd": 1873989.96,
+          "measured_usd": 1373141.58,
           "idle_usd": 1827.81,
-          "avg_apy_pct": 7.0613,
-          "native_value": 1875771.515419,
+          "avg_apy_pct": 7.06,
+          "native_value": 1875817.768986,
           "native_unit": "USD",
           "positions": 5,
           "deployed_positions": 4,
           "idle_positions": 1
         },
         "ETH": {
-          "value_usd": 670161.37,
-          "deployed_usd": 662501.37,
-          "measured_usd": 383397.47,
-          "idle_usd": 7660.0,
+          "value_usd": 676566.03,
+          "deployed_usd": 668840.26,
+          "measured_usd": 386955.05,
+          "idle_usd": 7725.76,
           "avg_apy_pct": 1.4381,
-          "native_value": 273.89067,
+          "native_value": 273.967288,
           "native_unit": "ETH",
           "positions": 4,
           "deployed_positions": 3,
@@ -926,7 +937,7 @@
         }
       },
       "unclassified": {
-        "value_usd": 4803106.74,
+        "value_usd": 4842059.59,
         "positions": 5
       },
       "reconciliation": {
@@ -936,9 +947,9 @@
       "wallets": [
         {
           "address": "0x8e53d04644e9ab0412a8c6bd228c84da7664cfe3",
-          "total_usd": 7349039.63,
-          "deployed_usd": 7204739.59,
-          "idle_usd": 144300.04,
+          "total_usd": 7394443.39,
+          "deployed_usd": 7248981.8,
+          "idle_usd": 145461.59,
           "positions": 14,
           "holdings": [
             {
@@ -947,7 +958,7 @@
               "protocol": "nexus mutual",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 4668294.51,
+              "value_usd": 4706151.57,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": true
@@ -958,7 +969,7 @@
               "protocol": "morpho",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 1057981.61,
+              "value_usd": 1058003.31,
               "apy_pct": 7.4,
               "is_idle": false,
               "apy_excluded": false
@@ -969,7 +980,7 @@
               "protocol": "uniswap-v3",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 500829.84,
+              "value_usd": 500848.38,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": true
@@ -980,7 +991,7 @@
               "protocol": "ether.fi",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 279103.9,
+              "value_usd": 281885.21,
               "apy_pct": 0.0,
               "is_idle": false,
               "apy_excluded": true
@@ -991,7 +1002,7 @@
               "protocol": "nexus mutual",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 255503.29,
+              "value_usd": 255508.39,
               "apy_pct": 6.0,
               "is_idle": false,
               "apy_excluded": false
@@ -1002,7 +1013,7 @@
               "protocol": "stakewise",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 199073.34,
+              "value_usd": 200921.02,
               "apy_pct": 2.14,
               "is_idle": false,
               "apy_excluded": false
@@ -1013,7 +1024,7 @@
               "protocol": "gearbox",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 184324.13,
+              "value_usd": 186034.04,
               "apy_pct": 0.68,
               "is_idle": false,
               "apy_excluded": false
@@ -1024,8 +1035,8 @@
               "protocol": "fluid",
               "chain": "ethereum",
               "bucket": "USD",
-              "value_usd": 59628.97,
-              "apy_pct": 5.6,
+              "value_usd": 59629.88,
+              "apy_pct": 5.57,
               "is_idle": false,
               "apy_excluded": false
             },
@@ -1035,7 +1046,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 134346.15,
+              "value_usd": 135435.61,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": true
@@ -1046,7 +1057,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "ETH",
-              "value_usd": 7660.0,
+              "value_usd": 7725.76,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -1068,7 +1079,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 328.12,
+              "value_usd": 331.31,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -1079,7 +1090,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 73.57,
+              "value_usd": 75.78,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -1090,7 +1101,7 @@
               "protocol": "",
               "chain": "ethereum",
               "bucket": "\u2014",
-              "value_usd": 64.39,
+              "value_usd": 65.32,
               "apy_pct": 0.0,
               "is_idle": true,
               "apy_excluded": false
@@ -1220,7 +1231,7 @@
       },
       {
         "date": "2026-08-31",
-        "value": 131390310.96
+        "value": 132062746.63
       }
     ],
     "by_denom": {
@@ -1343,7 +1354,7 @@
         },
         {
           "date": "2026-08-31",
-          "value": 55839668.51
+          "value": 56457798.77
         }
       ],
       "ETH": [
@@ -1465,7 +1476,7 @@
         },
         {
           "date": "2026-08-31",
-          "value": 64275763.85
+          "value": 64267668.08
         }
       ],
       "EUR": [
@@ -1587,7 +1598,7 @@
         },
         {
           "date": "2026-08-31",
-          "value": 3205432.56
+          "value": 3215474.3
         }
       ]
     },
@@ -1711,7 +1722,7 @@
         },
         {
           "date": "2026-08-31",
-          "value": 92525868.48
+          "value": 93112970.0
         }
       ],
       "CoW DAO": [
@@ -1833,7 +1844,7 @@
         },
         {
           "date": "2026-08-31",
-          "value": 22904726.8
+          "value": 22930593.14
         }
       ],
       "Balancer DAO": [
@@ -1955,7 +1966,7 @@
         },
         {
           "date": "2026-08-31",
-          "value": 8610676.05
+          "value": 8624740.1
         }
       ],
       "Nexus Mutual": [
@@ -2077,7 +2088,7 @@
         },
         {
           "date": "2026-08-31",
-          "value": 7349039.63
+          "value": 7394443.39
         }
       ]
     },
@@ -2200,7 +2211,7 @@
       },
       {
         "date": "2026-08-31",
-        "value": 41575.45
+        "value": 41583.19
       }
     ]
   },
@@ -2221,29 +2232,29 @@
     "reference_network": "mainnet",
     "USD": {
       "pocket": {
-        "1day": 4.3623,
-        "7day": 4.6306,
-        "30day": 4.4113
+        "1day": 4.3821,
+        "7day": 4.6243,
+        "30day": 4.3919
       },
       "by_client": {
         "CoW DAO": {
-          "1day": 3.2368,
-          "7day": 4.2758,
-          "30day": 4.1297
+          "1day": 3.2325,
+          "7day": 4.2795,
+          "30day": 4.1
         },
         "Balancer DAO": {
-          "1day": 3.466,
-          "7day": 4.6027,
-          "30day": 4.4148
+          "1day": 3.4672,
+          "7day": 4.6062,
+          "30day": 4.3865
         },
         "ENS": {
-          "1day": 5.1017,
-          "7day": 4.7383,
-          "30day": 4.4778
+          "1day": 5.1238,
+          "7day": 4.7222,
+          "30day": 4.4639
         },
         "Nexus Mutual": {
-          "1day": 6.2566,
-          "7day": 7.0613,
+          "1day": 6.284,
+          "7day": 7.06,
           "30day": 6.6653
         }
       },
@@ -2252,7 +2263,7 @@
         "7day": 3.7900000000000005,
         "30day": 3.61
       },
-      "spread_pct": 0.8406
+      "spread_pct": 0.8343
     },
     "ETH": {
       "pocket": {
